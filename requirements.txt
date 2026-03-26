@@ -2,5 +2,5 @@ pandas
 numpy
 matplotlib
 pickle
-sklearn
+scikit-learn
 streamlit
